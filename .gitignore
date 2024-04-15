@@ -178,3 +178,7 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
+
+# Youtube API
+crawling/youtube_api.json
